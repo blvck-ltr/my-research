@@ -156,6 +156,13 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 The PHP payload was executed by the web server, confirming full Remote Code Execution under the `www-data` process identity.
 
+POC Video:
+
+https://github.com/user-attachments/assets/78a03b92-f813-4200-ad92-2735c4f994ff
+
+
+
+
 ### Attack Flow Diagram
 
 ```
